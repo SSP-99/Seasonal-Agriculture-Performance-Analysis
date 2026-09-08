@@ -48,6 +48,5 @@ Agricultural activities are influenced by seasonal variations in environmental c
 2. Upload `seasonal_agriculture_performance_dataset.csv` when prompted
 3. Run all cells in order (Runtime → Restart and run all)
 
-## Author
 [Your Name] — [Your College Name]
 AICTE Student ID: [Your STU ID]
